@@ -1,0 +1,15 @@
+questions = all the questions
+
+for each question in questions
+  print question
+  get input and assign to variable input
+  if input equals question
+    print "You get a point!"
+    increment points by 1
+  if input doesd not, print "that answer is incorrect"
+end
+
+display points. if no points, print "you did not score any points"
+
+
+

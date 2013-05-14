@@ -1,0 +1,16 @@
+// Write your question and answers, separated by an empty line. Comments are preceded by "//"
+
+The answer is foo
+foo
+
+The answer is bar
+bar
+
+The answer is purple
+purple
+
+The answer is monkey
+monkey
+
+The answer is 123
+123
